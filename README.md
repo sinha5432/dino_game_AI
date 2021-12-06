@@ -5,4 +5,4 @@
 * Improvement on reward and punishment logic for a genome
 * Saving the best genome
 * Tracker for each generation
-* Code to test it
+* Code to test saved genome
